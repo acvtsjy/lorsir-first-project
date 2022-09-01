@@ -17,5 +17,6 @@ console.log("myvar = ", myvar)
     myString: 'hello World',
  }
 
+ // ciao
  console.log("myNumber    = ", myInterface.myNumber);
  console.log("myString = ", myInterface.myString);
